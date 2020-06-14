@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteASPNetCoreWebAPIWithJWTSecurity", "CompleteASPNetCoreWebAPIWithJWTSecurity\CompleteASPNetCoreWebAPIWithJWTSecurity.csproj", "{AE8DAF81-1188-46C0-A44D-377C56C83FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseAPI", "UseAPI\UseAPI.csproj", "{35E81A84-F5C7-46FD-BA6E-820C2A16BF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE8DAF81-1188-46C0-A44D-377C56C83FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8DAF81-1188-46C0-A44D-377C56C83FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8DAF81-1188-46C0-A44D-377C56C83FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8DAF81-1188-46C0-A44D-377C56C83FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E81A84-F5C7-46FD-BA6E-820C2A16BF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E81A84-F5C7-46FD-BA6E-820C2A16BF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E81A84-F5C7-46FD-BA6E-820C2A16BF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E81A84-F5C7-46FD-BA6E-820C2A16BF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAA5BC87-2FDB-4FEB-8940-08920A21CE2B}
+	EndGlobalSection
+EndGlobal
